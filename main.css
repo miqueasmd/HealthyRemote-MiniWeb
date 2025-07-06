@@ -458,6 +458,11 @@ footer {
         gap: 1rem;
         text-align: center;
     }
+    .tech-section h2 {
+        font-size: 1.7rem;
+        word-break: break-word;
+        hyphens: auto;
+    }
 }
 
 /* Floating animation for logo */
